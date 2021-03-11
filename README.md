@@ -27,5 +27,5 @@ chia start timelord &
 ```
 
 [FreeBSD install](https://github.com/Chia-Network/chia-blockchain/wiki/FreeBSD-Install#build) •
-[Quick start guidd](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide) •
-[Wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
+[Wiki](https://github.com/Chia-Network/chia-blockchain/wiki) •
+[Quick start guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
