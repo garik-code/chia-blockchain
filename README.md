@@ -2,7 +2,7 @@
 
 A new blockchain and smart transaction platform that is easier to use, more efficient, and secure. 
 
-More www.chia.net
+More details www.chia.net
 
 ---
 
