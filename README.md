@@ -1,5 +1,7 @@
 # CHIA blockchain
 
+---
+
 ## Build
 
 ### Install node
@@ -8,8 +10,6 @@
 
 `sh install.sh`
 
----
-
 ### Keys generate
 
 ```
@@ -17,7 +17,6 @@
 chia init
 chia keys generate
 ```
----
 
 ### Plots (not necessary)
 
@@ -26,7 +25,6 @@ chia keys generate
 chia plots create -k 32 -n 2
 chia plots check -n 30
 ```
-
 ---
 
 ## Launch
