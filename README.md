@@ -1,11 +1,5 @@
 # CHIA blockchain
 
-[FreeBSD install](https://github.com/Chia-Network/chia-blockchain/wiki/FreeBSD-Install#build) •
-[Wiki](https://github.com/Chia-Network/chia-blockchain/wiki) •
-[Quick start guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
-
----
-
 ## Build
 
 ### Install node
@@ -41,3 +35,8 @@ chia start timelord &
 
 ---
 
+[FreeBSD install](https://github.com/Chia-Network/chia-blockchain/wiki/FreeBSD-Install#build) •
+[Wiki](https://github.com/Chia-Network/chia-blockchain/wiki) •
+[Quick start guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
+
+---
