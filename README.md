@@ -1,6 +1,6 @@
 # CHIA blockchain
 
-A new blockchain and smart transaction platform that is easier to use, more efficient, and secure. 
+A new blockchain and smart transaction platform that is easier to use, more efficient, and secure.
 
 More details www.chia.net
 
@@ -10,9 +10,10 @@ More details www.chia.net
 
 ### Install node
 
-`cd chia-blockchain`
-
-`sh install.sh`
+```
+cd chia-blockchain
+sh install.sh
+```
 
 ### Keys generate
 
