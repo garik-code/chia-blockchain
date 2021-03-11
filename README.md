@@ -2,6 +2,7 @@
 
 ## Build
 
+`cd chia-blockchain`
 `sh install.sh`
 
 ```
